@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohcikeeru.darencard.net/sitemap.xml
